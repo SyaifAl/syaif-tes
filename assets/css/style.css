@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+@import url(//db.onlinewebfonts.com/c/ead4092f880f75ff0883ced1856b2c37?family=SF+Pro+Rounded);
+/* body {
+  min-height: 10000px;
+} */
+button.btn-primary-custom {
+  color: white;
+  background: #1fa7ff;
+  padding: 12px 40px;
+  border-radius: 16px;
+  font-size: 16px;
+  border: none;
+  transition: 0.2s ease-out;
+}
+button.btn-primary-custom:hover {
+  transform: scale(1.05);
+  transition: 0.2s ease-in;
+}
+.jumbotron {
+  padding-top: 0;
+}
+img.foto-hero {
+  width: 500px;
+}
+.motto {
+  padding-top: 7rem;
+}
